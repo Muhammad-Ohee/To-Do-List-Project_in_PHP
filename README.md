@@ -1,18 +1,19 @@
 # To-Do-List Project in PHP
 
-Title: Task 1
-Description: Finish the project by Monday
-Start Date: 04-10-2023
-Due Date: 07-10-2023
-Tags: Dashboard, Backend
-Assignees: Muhammad, Ohee
-Priority: High
-Completed: No
-
-Title: Task 2
-Description: Finish the project by Sunday
-Start Date: 06-10-2023
-Due Date: 07-10-2023
-Assignees: Muhammad
-Priority: High
-Completed: No
+Title: Task 1<br>
+Description: Finish the project by Monday<br>
+Start Date: 04-10-2023<br>
+Due Date: 07-10-2023<br>
+Tags: Dashboard, Backend<br>
+Assignees: Muhammad, Ohee<br>
+Priority: High<br>
+Completed: No<br>
+<br>
+<br>
+Title: Task 2<br>
+Description: Finish the project by Sunday<br>
+Start Date: 06-10-2023<br>
+Due Date: 07-10-2023<br>
+Assignees: Muhammad<br>
+Priority: High<br>
+Completed: No<br>
